@@ -1,0 +1,13 @@
+{
+  "resource_group": "myResourceGroup",
+  "recovered_vms": [
+    {
+      "vm_name": "myRecoveredVM",
+      "disk_name": "myRecoveredDisk",
+      "snapshot_name": "mySnapshot",
+      "status": "Success",
+      "timestamp": "2025-04-19T01:00:00Z"
+    }
+  ],
+  "errors": []
+}

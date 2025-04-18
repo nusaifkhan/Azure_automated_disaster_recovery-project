@@ -1,0 +1,3 @@
+Resource Group,VM Name,Snapshot Name,Status,Timestamp
+myResourceGroup,myVM,mySnapshot,Success,2025-04-19T00:00:00Z
+myResourceGroup,myVM2,mySnapshot2,Success,2025-04-19T00:30:00Z

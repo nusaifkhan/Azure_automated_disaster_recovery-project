@@ -1,0 +1,7 @@
+{
+  "subscription_id": "your_subscription_id",
+  "resource_group": "myResourceGroup",
+  "region": "eastus",
+  "backup_schedule": "daily",
+  "alerts_enabled": true
+}
